@@ -1,0 +1,26 @@
+[
+  {
+    "model": "leadgen.Vertical",
+    "pk": 1,
+    "fields": {
+      "name": "EdTech",
+      "description": "It comprises the companies that works in web, online, apps for educational services"
+    }
+  },
+  {
+    "model": "leadgen.Vertical",
+    "pk": 2,
+    "fields": {
+      "name": "Multi-Cultural Associations",
+      "description": "Multi-Cultural Associations"
+    }
+  },
+  {
+    "model": "leadgen.Vertical",
+    "pk": 3,
+    "fields": {
+      "name": "Sports Associations",
+      "description": "Sports Associations"
+    }
+  }
+]
